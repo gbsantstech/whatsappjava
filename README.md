@@ -1,4 +1,2 @@
-# chatjavasenac
-Chat Java 
-
-Nessa aplicação é feita conexão entre servidores com a ideia de que ambos podem se comunicar por meio de troca de mensagens.
+# Whatsapp Java
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gbsantstech/whatsappjava/blob/master/LICENSE) 
