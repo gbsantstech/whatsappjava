@@ -16,6 +16,7 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 - Socket é onde é feita a comunicação entre cliente e servidor.
 - Swing foi usada para simular um ambiente de chat similar ao whatsapp.
 - Foi gerado um arquivo .jar executável para que com  apenas dois cliques fosse possível abrir a janela de bate papo e iniciar a conversa.
+- O jar foi criado diretamente da IDE Eclipse, porém é possível criá-lo no prompt de comando.
 
 ## Layout da Aplicação (Login):
 ![Login](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-login.png)
