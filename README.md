@@ -11,6 +11,15 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 - Interface Gráfica Swing
 - Arquivo .jar
 
+## Layout da Aplicação (Login):
+![Login](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-login.png)
+
+## Layout da Aplicação (Solicitação do IP):
+![Solicitção IP](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-ip.png)
+
+## Layout da Aplicação (Janela de conversa):
+![Chat](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-tela.png) 
+
 ## Explicação:
 - A thread foi aplicada para que houvesse troca simultânea das mensagens sem atraso no envio e recebimento.
 - Socket é onde é feita a comunicação entre cliente e servidor.
