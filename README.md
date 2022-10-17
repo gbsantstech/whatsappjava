@@ -9,12 +9,13 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 - Threads
 - Socket em Java
 - Interface Gráfica Swing
-- Exception
+- Arquivo .jar
 
 ## Explicação:
 - A thread foi aplicada para que houvesse troca simultânea das mensagens sem atraso no envio e recebimento.
 - Socket é onde é feita a comunicação entre cliente e servidor.
 - Swing foi usada para simular um ambiente de chat similar ao whatsapp.
+- Foi gerado um arquivo .jar executável para que com  apenas dois cliques fosse possível abrir a janela de bate papo e iniciar a conversa.
 
 ## Autor: 
 Gabriel Santos 
