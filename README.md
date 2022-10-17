@@ -36,10 +36,6 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 - Escreva no campo da mensagem e aperte Send
 - Para terminar feche as janelas
 
-## Link dontfile para baixar a aplicação:
-
-http://www.dontfile.com/whatsappjava
-
 ## Autor: 
 Gabriel Santos 
 
