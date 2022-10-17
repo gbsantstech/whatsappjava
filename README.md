@@ -11,6 +11,12 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 - Interface Gráfica Swing
 - Arquivo .jar
 
+## Explicação:
+- A thread foi aplicada para que houvesse troca simultânea das mensagens sem atraso no envio e recebimento.
+- Socket é onde é feita a comunicação entre cliente e servidor.
+- Swing foi usada para simular um ambiente de chat similar ao whatsapp.
+- Foi gerado um arquivo .jar executável para que com  apenas dois cliques fosse possível abrir a janela de bate papo e iniciar a conversa.
+
 ## Layout da Aplicação (Login):
 ![Login](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-login.png)
 
@@ -20,11 +26,14 @@ A aplicação consiste em criar uma comunicação bidirecional entre cliente e s
 ## Layout da Aplicação (Janela de conversa):
 ![Chat](https://github.com/gbsantstech/whatsappjava/blob/master/assets/imagem-tela.png) 
 
-## Explicação:
-- A thread foi aplicada para que houvesse troca simultânea das mensagens sem atraso no envio e recebimento.
-- Socket é onde é feita a comunicação entre cliente e servidor.
-- Swing foi usada para simular um ambiente de chat similar ao whatsapp.
-- Foi gerado um arquivo .jar executável para que com  apenas dois cliques fosse possível abrir a janela de bate papo e iniciar a conversa.
+## Como usar:
+- Entre como servidor apertando Yes
+- Irá aparecer a janela do servidor com IP
+- Abra novamente a aplicação dando dois cliques
+- Entre como cliente apertando No
+- Informe o IP dado pelo servidor, depois aperte OK
+- Escreva no campo da mensagem e aperte Send
+- Para terminar feche as janelas
 
 ## Autor: 
 Gabriel Santos 
